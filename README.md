@@ -1,7 +1,5 @@
 ### Hi there 👋
-As a dedicated student with a passion for Quantum Computing and its applications in various industries, I'm on a journey to explore the limitless possibilities of this exciting field. With a strong and diverse academic background, I'm equipped to contribute to the ever-evolving world of quantum technology and be a positive addition to your team.
-
-During my academic pursuits, I've nurtured my skills in mathematics, physics, and computer science, and my genuine interest in quantum computing has led me to embark on a quest for knowledge and innovation (Quantum Womanium, QubitbyQubit ... ). I've gained valuable experience through an internship in the field of superconducting qubits (Riken lab) and have expanded my expertise by delving into Quantum Error Correction and Quantum optimization algorithms.
+I'm a dedicated student with a passion for Quantum Computing and its applications in various industries, I'm on a journey to learn & work on the limitless possibilities of this exciting field. With a strong and diverse academic background, I'm equipped to contribute to the ever-evolving world of quantum technology and be a positive addition in science.
 
 My journey is guided by a commitment to personal growth and a strong desire to make science available to people all over the world, especially disadvantaged individuals. I'm eager to connect with like-minded professionals, researchers, and experts in the field to exchange ideas, learn, and potentially collaborate on projects that push the boundaries of quantum computing.
 
