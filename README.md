@@ -17,9 +17,10 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-  Quantum Application Engineer at <a href="https://qperfect.io" target="_blank">QPerfect</a>, working on MIMIQ — a middleware platform that connects quantum algorithms to real quantum hardware.
-  I focus on quantum software engineering, QML showcases, and helping research and industry teams get productive on quantum systems fast.
-  M2 in Quantum and AI, Université Paris-Saclay.
+  Quantum Application Engineer at <a href="https://qperfect.io" target="_blank">QPerfect</a> in Strasbourg, 
+  working on <strong>MIMIQ</strong> — a platform that makes quantum computing actually usable.<br><br>
+  Always happy to talk quantum algorithms, simulations, or anything at the edge of what quantum computers can do.
+  Feel free to reach out!
 </p>
 
 <h3 align="left">🛠 Languages and Tools</h3>
